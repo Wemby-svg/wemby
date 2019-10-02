@@ -1,1 +1,1 @@
-# wemby
+# gunakan tools dengan baik
